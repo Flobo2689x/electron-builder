@@ -1,5 +1,22 @@
 # electron-builder
 
+## 26.17.1
+
+### Patch Changes
+
+<details><summary>Updated 2 dependencies</summary>
+
+<small>
+
+[`fcd6897`](https://github.com/electron-userland/electron-builder/commit/fcd6897810846ee8dc367f0abacf34e4eb5a10fb)
+
+</small>
+
+- `app-builder-lib@26.17.1`
+- `dmg-builder@26.17.1`
+
+</details>
+
 ## 26.17.0
 
 ### Patch Changes
